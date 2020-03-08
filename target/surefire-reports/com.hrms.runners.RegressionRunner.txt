@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: com.hrms.runners.RegressionRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 10.073 s <<< FAILURE! - in com.hrms.runners.RegressionRunner
+Login.Invalid Login  Time elapsed: 9.217 s  <<< ERROR!
+org.openqa.selenium.NoSuchSessionException: 
+Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Volkans-MBP', ip: '192.168.1.76', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '1.8.0_221'
+Driver info: driver.version: RemoteWebDriver
+
